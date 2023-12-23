@@ -5,3 +5,5 @@ Note: This repository is for the owner's reference only. DO NOT COPY WORK FROM T
 The owner of this repository is NOT RESPONSIBLE FOR ANY WORK COPIED AND PLAGIARIZED.
 
 This repository will be updated with lab assignments and executables AFTER corresponding due dates have passed.
+
+This repository is basically identical to my other ece244-public repo, the only difference being the ability to view the issues I pushed while working on the lab assignments.
