@@ -6,4 +6,10 @@ The owner of this repository is NOT RESPONSIBLE FOR ANY WORK COPIED AND PLAGIARI
 
 This repository will be updated with lab assignments and executables AFTER corresponding due dates have passed.
 
-This repository is basically identical to my other ece244-public repo, the only difference being the ability to view the issues I pushed while working on the lab assignments.
+# ECE244 vs ECE244-PUBLIC
+
+This repository is basically identical to my other ece244-public repo, but with a few differences:
+- This repo contains the issues I pushed and incorporated into my workflow for the lab assignments
+- This repo also contains code I wrote for questions from past ECE 244 exams
+
+Hopefully you can find some use out of this repository. As always, please don't plagiarise any work from this repo. The code is far from perfect and so copying the imperfections will almost certainly result in an AO.
